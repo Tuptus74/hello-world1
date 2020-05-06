@@ -1,1 +1,6 @@
-# hello-world1
+# hello-world
+
+
+witam Wariatów
+
+Pierwszy test i zaczynamy
